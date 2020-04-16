@@ -1,0 +1,9 @@
+c:\users\ilegarreta\documents\visual studio 2012\Projects\Ejemplo Consulta Stock On Line zNube\Ejemplo Consulta Stock On Line zNube\bin\Debug\Ejemplo Consulta Stock On Line zNube.exe.config
+c:\users\ilegarreta\documents\visual studio 2012\Projects\Ejemplo Consulta Stock On Line zNube\Ejemplo Consulta Stock On Line zNube\obj\Debug\Ejemplo Consulta Stock On Line zNube.csprojResolveAssemblyReference.cache
+c:\users\ilegarreta\documents\visual studio 2012\Projects\Ejemplo Consulta Stock On Line zNube\Ejemplo Consulta Stock On Line zNube\obj\Debug\Ejemplo_Consulta_Stock_On_Line_zNube.Form1.resources
+c:\users\ilegarreta\documents\visual studio 2012\Projects\Ejemplo Consulta Stock On Line zNube\Ejemplo Consulta Stock On Line zNube\obj\Debug\Ejemplo_Consulta_Stock_On_Line_zNube.Properties.Resources.resources
+c:\users\ilegarreta\documents\visual studio 2012\Projects\Ejemplo Consulta Stock On Line zNube\Ejemplo Consulta Stock On Line zNube\obj\Debug\Ejemplo Consulta Stock On Line zNube.csproj.GenerateResource.Cache
+c:\users\ilegarreta\documents\visual studio 2012\Projects\Ejemplo Consulta Stock On Line zNube\Ejemplo Consulta Stock On Line zNube\bin\Debug\Ejemplo Consulta Stock On Line zNube.exe
+c:\users\ilegarreta\documents\visual studio 2012\Projects\Ejemplo Consulta Stock On Line zNube\Ejemplo Consulta Stock On Line zNube\bin\Debug\Ejemplo Consulta Stock On Line zNube.pdb
+c:\users\ilegarreta\documents\visual studio 2012\Projects\Ejemplo Consulta Stock On Line zNube\Ejemplo Consulta Stock On Line zNube\obj\Debug\Ejemplo Consulta Stock On Line zNube.exe
+c:\users\ilegarreta\documents\visual studio 2012\Projects\Ejemplo Consulta Stock On Line zNube\Ejemplo Consulta Stock On Line zNube\obj\Debug\Ejemplo Consulta Stock On Line zNube.pdb
